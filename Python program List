@@ -1,0 +1,275 @@
+# Introduction
+# 1) #Write a program that prints "Hello World" on the screen. (Mandatory)
+
+# 2)Write a program that takes a name as input and print the same on the screen. (Mandatory)
+
+# 3)Write a program that performs add , subtract , multilply and devide operations on numbers. (Mandatory)
+
+# 4)Write a program that depicts the use of (') single quote , (") double quotes and (''' or """) triple quotes (Mandatory)
+
+# 5)Write a program that print the string "What's your name?" on the screen (Mandatory)
+
+# 6)Write a program that finds the Area and Perimeter of a rectangle..( Area = length * breadth , Perimeter = 2 * (legth + breadth)
+
+# 7)Write a program that prints the current time on the screen. (Mandatory)
+
+# 8)Write a program that prints the time in the format given : Day Month Date HH:MM:SS YYYY (Mandatory)
+
+# 9)Write a program that print the calender for the month of January , 2012. 
+
+
+
+# STRING
+# DislpyString
+# # Write a program that takes one string from the user and print the same on the screen. (Mandatory)
+
+# 2)PrintLetter
+# #Write a program that takes one string from user as input and print that string in as individual letters on each line. (Mandatory)
+
+# 3)AppendString
+# #Write a program that takes two string..Append the second string into the first string and print the result on screen. (Mandatory)
+
+# 4)CaseCovert
+# #Write a program that takes a string from the user and print the string in both uppercase and lowercase. (Mandatory)
+
+# 5)IntToString
+# #Write a program that converts an integer to string first.Perform some operation on it..Again convert it to integer and perform addition on that. (Mandatory)
+
+# 6)Alphabet
+# #Write a program that takes one string as input , now check whether string is alphabet or a digit. (Mandatory)
+
+# 7)Justification
+# #Write a program that takes one string as input and print the string with center , right and left justification. (Mandatory)
+
+# 8)8ReplacePart
+# #Write a program that takes one string , now within that string replace perticular part of the string with another string. (Mandatory)
+
+# 9)ReplaceOnce
+# #Write a program that takes one string , now within that string replace perticular part of the string with another string but for only one occurance. (Mandatory)
+
+# 10)SpliteStr
+# #Write a program that takes one string and split that string by another string. Example .. String = "MyHelloName" After Splitting by the word "Hello" Output = ['My Name'] (Mandatory)
+
+# 11)#Write a program that takes one string , now split that string by spaces and then by commas and print the result on screen. (Mandatory)	
+
+# 12)SpliteStr
+# #Write a program that takes one string and split that string by another string. Example .. String = "MyHelloName" After Splitting by the word "Hello" Output = ['My Name'] (Mandatory)
+
+# DONE 13)EnglishNmae
+# #Enter a numeric value and print the English name for it. xample : 29 - Twenty Nine (Mandatory)
+
+# DONE 14)Pelindrome
+# #Write a program that takes the string and check that the string is pelindrome or not. Example : MADAM - Pelindrome (Mandatory)
+
+# DONE 15)Reverse
+# #Write a program that takes one string from user and prints the reverse of the string. (Mandatory)
+
+# DONE 16)CovertUpperTolower
+# #Write a program that takes string as a user input and convert all uppercase characters to lowercase and vice versa. (Mandatory)
+
+# Done 17)StringCompare
+# #Write a program that compares two string and print the message accordingly whether they are equal , first string is smaller or bigger then the second. (Mandatory)
+
+# Done 18)AbecedarianSeries
+# #Write a program that generates the abecedarian series. Prefixes = "JKLM" Suffix = "ack" Output : Jack Kack Lack Mack (Mandatory)
+
+# Done 19)ChangeString
+# #Write a program that changes the string "Hello World!" to "Jello World!" (Mandatory)
+
+# Done # 20)Wovel
+# #Write a program that takes a string as user input and find out vowels from that string and print the same. (Mandatory)
+
+# #CONTROLFLOW
+# DONE 1# Write a program that takes two variable and initialize them with 100 and 0 respectively.Now check if variable has some value then print "Got a true expression value" and at the end print "Good Bye (Mandatory)
+
+# DONE 2#Modify the above program and print the message " Got a False expression value " if the variable contains 0 value. (Mandatory)
+
+# #DONE # Write a program that takes a variable and initialize with 100 (Mandatory)
+# #Check the following conditions.
+# #Now check the var with various values like 200 , 150 ,100 and print the messages accordingly unless you get the same value.
+# #If you don't get it then print the message unsuccessful.
+
+# Done 4# Write a program that performs the following operations (Mandatory)
+# #Work Instructions
+# #	Take one variable and initialize it with 10
+# #	Input one number from user..
+# #	Now ,if user input is same as initialized number then print "success"
+# #	If user input is lessar then initialized number then print "smaller"
+# #	If user input is greater then initialized number then print "bigger"
+
+# #DONE 5# Write a program that compute the absolute value of a number.Print appropriate messages for 0 and 1 also. (Mandatory)
+
+# #DONE 6# Write a program that performs the following operations : (while) 
+# #Take one variable and initialize it with 10
+# #Input one number from user..
+# #Now ,if user input is same as initialized number then print "success" otherwise , until he enters the exact #number he should be
+# #allowed to enter the number.
+
+# #DONE#7#Create a program to count by prime numbers. Ask the user to input a number, then print each prime number up to that number.(while) (Mandatory)
+
+# #DONE# Instruct the user to pick an arbitrary number from 1 to 100 and proceed to guess it correctlywithinseventries. 
+
+# 8#After each guess, the user must tell whether their number is higher than, lower than, or equal to your guess.(while)
+
+# #DONE 9#Write a program that Waits until a password has been entered. Use control-C to break out without the password.(while) 
+
+# #DONE 10# Write a program that print the current sum value where sum = 0 and var = 1 initially. Continue the process until user enters 0.(while) (Mandatory)
+
+# #DONE 11# Write a program that prints 1 2 3 4 5 using for loop. (Mandatory)
+
+# #Not Done12#Write a program that has one string and a list.Assign some items to list.Now one by one using for loop print the string and then list. (Mandatory)
+
+# #DONE 13#Write a program that has a list having 5 numbers.Print the sum of all the 5 numbers using a for loop. (Mandatory)
+
+# #DONE 14#Write a program that has a list having 10 number and have few numbers repeat on them.Now using a for loop print those numbers which have their duplicates present in the list. (Mandatory)
+
+# #DONE 15# Write a program that prints a table for a given input integer using a for loop. (Mandatory)
+
+# #DONE 16#Write a program that takes the user input until the user enters the string "quit" (break statement) (Mandatory)
+
+# #DONE 17#Write a loop that takes a list of integers and computes the sum of all the integers up until a zero is found in the list. Use the break statement. (Mandatory)
+
+# #DONE 18# Write a program that finds out prime numbers in the range 2 to 10. But display the multiples if the number is not prime. Example : 9 equals 3 * 3 (Mandatory)
+
+# #DONE 19#Write a program that takes the user input until the user enters the string "quit" and if the string length that user inputs is less then three he should be prompted to again enter the string. (Mandatory)
+
+# #DONE20#Write a for: loop that takes a list of integers and triples each integer that is even. Use the continue statement. (Mandatory)
+
+
+# LIST
+# #DONE1)SampleList
+# #Write a program that creates a sample list having 5 items and print those using for loop. (Mandatory)
+
+# #DONE2)InsertList
+# #Write a program that inserts a value in the list using 'insert' method. (Mandatory)
+
+# #DONE3)ConcateLists
+# # Write a program that concatenates two lists , use 'append' and 'extend' methods. (Mandatory)
+
+# #DONE4)ConcateWith+
+# #Write a program that contains 3 lists , concatenate with '+' operator . Print Values on the screen.
+
+# #DONE5)compareLists
+# # Write a program that compares two lists with "==" and "is" operators..Print both the output on screen. (Mandatory)
+
+# #DONE6)Queue
+# #Write a program that implements Queue data structure using lists to insert and delete items. (Mandatory)
+
+# #DONE #7)ListOperation
+# #Write a program that append an item, sort the items and deletes the item from the list. (Mandatory)
+
+# #DONE 8)+Operator
+# #Write a program that adds two separate list with the "+" operator and print the result on the screen. (Mandatory)
+
+# #DONE9)Operater*
+# # Write a program that modifies the existing list with N times using "*" operator. Example : [1,2] * N  (Mandatory)
+
+# #DONE 10)operator+=
+# #Write a program that adds an item to the end of the list using "+=" operator. (Mandatory)
+
+# #DONE #11)Print3rdList
+# #Write a program that creates two lists with some values in them.Now create a third list which contains these two lists.Print the data of the third list on the screen. (Mandatory)
+
+# #DONE 12)SlicinList
+# #Write a program that creates a list that contains the value [0,1,2,3,4,5,6,7,8,9].Performt the follwoing operations on the list with slicing : Output 1 : [0,1,2] Output 2 : [5,6,7,8,9] (Mandatory)
+
+# #DONE#13)Cupboard
+# #Write a program that has a list name Cupboard which contains "3 shirts , 2 pants , no socks" . Print the following output : drawer 0 holds 3 shirts ,drawer 1 holds 2 pants , drawer 2 holds no socks (Mandatory)
+
+# #DONE14)Change
+# #Make the Modifications in the above program and change "no socks" with "3 pair of socks".Aslo append one more item in the list named "5 sunglasses". Print the result on the screen. (Mandatory)
+
+# #DONE15)FruitList
+# #Write a program that creates a fruitlist of say 5 items.First sort the list.Print the list .Now delete the first item from the list and then print the list. (Mandatory)
+
+# #DONE16)Vote
+# #Write a program that tallies the votes of a four-candidate election.Votes arrive one at a time, where a vote for Candidate i is denoted by the number, i.At last print the winner on the screen. (Mandatory)
+
+# #DONE#17)ReadSeries
+# #Write a program that reads a series of integers in the range 1 to 20. The input is terminated by an integer that does not fall in this range.Print most often and least often inputs. (Mandatory)
+
+# #18)linearSearch
+# # Write a program of Linear Search using list. (Mandatory)
+
+
+# #19)PrintNumber
+# # Write a program that has 0 to 500 numbers.Now find out all the print numbers from this and make another list.Print that list. (Mandatory)
+
+
+# =============================================================================
+# DICTIONATY
+
+# #DONE1)#Write a program that creates one dictionary that conatains Name ,Address pair..Minimum having 10 records.Also print the records. (Mandatory)
+
+# #DONE2)ADS
+# #In the above program Add , Delete and search records with various attributes. (del ,has_key) (Mandatory)
+
+# #DONE3)Dict
+# #Create  a dictionary.Change the exixting value for one key. Delete one item from it. Add one item to it. Print everything on screen (Mandatory)
+
+# #DONE#4)list
+# #Create two dictionaries callled prices (contains product & price) and my_purcahses (product , number of purchase of this product). (Mandatory)
+# #Now print a grocery_bill with for loop that depicts your total exepense.
+
+# #DONE 5)Telephone
+# #Create a dictionary which has names and telephone numbers as keys,values (Mandatory)
+# #This program should give the telephone number of a person given by the user and if the person is not existing in the list then it creates this entry in the dictionary.
+
+# #DONE 6.PY
+# # Defi:-Write a program that takes the line of input discarding the punctuation.Now break the line into words by spaces and iterate through the line.And make a dictionary so that the key will be the "word" that is read from the line and value will be the frequency that how many times this work came into the line.Print that dictionry onto the screen.
+
+# #DONE7)program
+# #Definition :Create a dictionary with the ticker symbol and company name like 
+# #   {'GM':'General Motors','CAT':'Caterpillar','EK':'Eastman Kodak'}. Create a simple list of blocks of stock. These could be tuples with ticker symbols, prices, dates and number of shares. For example:
+# #purchases = [ ( 'GE', 100, '10-sep-2001', 48 ), ( 'CAT', 100, '1-apr-1999', 24 ), ( 'EK', 200, '1-jul-1998', 56 ) ].
+
+# #Create a purchase history report that computes the full purchase price (shares times dollars) for each block of stock 	and uses the stockDict to look up the full company name.
+
+
+# #DONE8)month
+# #A date of the form 8-MAR-85 includes the name of the month, which must be translated to a number. (Mandatory)
+
+# #DONE9)vegetable
+# #Write a program that create a dictionary "vegetable" with key and vaule like {'tomato':'red'}.Now keys in alphabetical order for the same dictionary. (Mandatory)
+
+# #DONE 10)Update
+# #Write a program that shows the use of 'update' method which updates any existing item in the dictionary. (Mandatory)
+
+# #DONE#11)CreateDict
+# #Write a program that creates one dictionary that conatains Name ,Address pair..Minimum having 10 records.Also print the records. (Mandatory)
+
+# #DONE#11Method
+# #Write a program that shows the use of copy and clear method on the dictionary.
+
+# #DONE#12Spanishword
+# #Write a function 'createDictionary' that creates 'spanish' dicitonary by assigning spanish equivalent of 1 to 10 like spnaish['one']='uno'. Now print values on the screen. (Mandatory)
+
+
+# #DONE 13TelePhoneMenu
+
+# # Write a program which shows menu 	 1.Show Phone Number 
+# #					 2.Add Phone Number 
+# #					 3.Delete Phone Number
+# #					 0.Exit.
+#  # 	Now as per the user input 1,2,3 or 0 the respected operations of Showing Phone Numbers ,
+# #Addning new phone number and delete a phone number should be performed.All are functions like show_menu, #show_phonelist , add_phone and del_phone.Use dictionary where key is name and value is phone number.
+
+
+# #DONE14student
+# '''
+# Write a menu driven program that contains the menu
+#  1. Add Student 
+#  2. Remove Student
+#  3.Print Grades
+#  4.Record Student Grade
+#  5.Print Menu
+#  6.Exit.
+  
+# There is a Maximum Point Limit for Assignmments say : max_points = [25,25,50,25,100] and
+# 						     assignments = ['HW 1' , 'HW 2','Quiz','HW 3','test'].
+
+# Now define one dictionary students = {'#Max' : max_points} and one by one show the use of all menu items.
+# '''
+
+# #DONE15NestedDict
+# #Write one program that has nested dictionaries and accessing those values from nested directories.
