@@ -70,7 +70,7 @@ async def on_message(message):
             bads +=db['words']
         
         if any(word in msg.casefold() for word in ####):
-            # await msg.delete()
+            del words[index]
             await reply(random.choice(options))
     
     if msg.startswith('$newgaali'):
